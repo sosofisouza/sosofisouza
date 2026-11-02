@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:fbcfe8,100:f9a8d4&height=170&section=header&text=Sofia%20Rodrigues&fontSize=46&fontColor=831843&fontAlignY=42&desc=Engenharia%20de%20Software%20%C2%B7%20Intelig%C3%AAncia%20Artificial&descSize=16&descAlignY=68" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=19&pause=1400&color=DB2777&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+que+bom+te+ver+por+aqui;Eu+construo+agentes+de+IA+e+automa%C3%A7%C3%B5es;Gosto+de+entender+o+porqu%C3%AA+das+coisas" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=19&pause=1400&color=DB2777&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+que+bom+te+ver+por+aqui" />
 
 <br>
 
@@ -16,11 +16,13 @@
 
 ### Sobre mim
 
-Sou estudante de **Engenharia de Software na FIAP**, onde entrei como bolsista pelo ENEM, e trabalho como **Técnica de Inteligência Artificial e Inovação na FIEB**. No dia a dia, crio agentes de IA, automações e sistemas em C#/.NET, e participo de uma consultoria de IA que ajuda as equipes a transformar processos manuais em soluções que economizam tempo.
+Sou estudante de Engenharia de Software na FIAP e sou apaixonada por tecnologia. A matemática e a lógica sempre fizeram parte do meu interesse, assim como a vontade de entender como as coisas funcionam e de resolver problemas de forma estruturada.
 
-Antes disso, passei pelo **Mercado Livre**, analisando dados de campanhas com Google BigQuery, e pelo suporte de TI da Secretaria de Saúde de Barueri. No ensino técnico, liderei a equipe do meu TCC, um app Android para a coleta de lixo eletrônico.
+Valorizo muito as pessoas e as conexões que construo ao longo do caminho. Por isso, participo com frequência de eventos e comunidades de tecnologia, onde troco conhecimento e aprendo com diferentes trajetórias.
 
-Sou comunicativa e gosto de estar perto das pessoas. Me interesso tanto pela parte técnica quanto pela pergunta que vem antes dela: **qual problema estamos resolvendo e por quê**. É por isso que o caminho entre engenharia de IA, dados e produto me atrai tanto.
+Tenho facilidade de comunicação e perfil de liderança, e gosto de organizar ideias, mobilizar equipes e conduzir projetos até o resultado.
+
+Recentemente, a inteligência artificial passou a despertar cada vez mais o meu interesse. É uma área nova para mim, que venho explorando com dedicação e entusiasmo.
 
 <br>
 
