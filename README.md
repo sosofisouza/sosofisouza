@@ -26,15 +26,6 @@ Recentemente, a inteligência artificial passou a despertar cada vez mais o meu 
 
 <br>
 
-### O que me move
-
-- Construir agentes de IA que resolvem problemas reais
-- Aprender na prática, em hackathons, desafios e projetos em equipe
-- Eventos de tecnologia, como participante e como voluntária
-- Compartilhar o que aprendo, aqui e nas redes
-
-<br>
-
 ### Tecnologias
 
 <div align="center">
@@ -47,8 +38,8 @@ Recentemente, a inteligência artificial passou a despertar cada vez mais o meu 
 
 ### Projetos
 
-**E.V.A.** &nbsp;<sub><i>vencedor da Global Solution FIAP 2026</i></sub>
-<br><sub>Fungos, sensores IoT e IA para regenerar solos, na Terra e em Marte. [Ver o projeto](https://github.com/sosofisouza/global-solution-eva)</sub>
+**[E.V.A.](https://github.com/sosofisouza/global-solution-eva)** &nbsp;<sub><i>vencedor da Global Solution FIAP 2026</i></sub>
+<br><sub>Fungos, sensores IoT e IA para regenerar solos, na Terra e em Marte.</sub>
 
 **[Agente de Portfólio GitHub](https://github.com/sosofisouza/agente-portfolio-github)**
 <br><sub>Meu primeiro agente de IA: gerencia o perfil do GitHub usando Google ADK, Gemini e o MCP do GitHub.</sub>
