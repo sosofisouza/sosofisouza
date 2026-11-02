@@ -56,6 +56,9 @@ Recentemente, a inteligência artificial passou a despertar cada vez mais o meu 
 **[Semáforo de Empregabilidade](https://github.com/sosofisouza/semaforo-empregabilidade)**
 <br><sub>Protótipo IoT que mostra o risco de automação por IA em 14 profissões.</sub>
 
+**[EcoTech](https://github.com/sosofisouza/ecotech)** &nbsp;<sub><i>TCC do Técnico em Informática</i></sub>
+<br><sub>App Android em Java que mostra os EcoPontos mais próximos para descartar eletrônicos.</sub>
+
 **[Aulas de Front-End](https://github.com/sosofisouza/aulas-front-end)**
 <br><sub>Do primeiro HTML à Pokédex do checkpoint final: Flexbox, responsividade, Bootstrap e animações.</sub>
 
