@@ -53,6 +53,12 @@ Recentemente, a inteligência artificial passou a despertar cada vez mais o meu 
 **[Eleições 2022](https://github.com/sosofisouza/eda-eleicoes-2022)**
 <br><sub>Análise exploratória dos dados do TSE para Presidente e Governador, com Python e pandas.</sub>
 
+**[Data Science](https://github.com/sosofisouza/data-science-fiap)**
+<br><sub>Técnicas de amostragem e análise exploratória dos dados do Cartola FC 2015.</sub>
+
+**[GPS-BR 0.1](https://github.com/sosofisouza/checkpoint-dynamic-programming)**
+<br><sub>Protótipo de GPS com mapa em dicionário, fila FIFO de pedidos e consulta de rotas, em Python.</sub>
+
 **[CareLevel IoT](https://github.com/sosofisouza/carelevel-iot)**
 <br><sub>Monitoramento de sinais vitais com ESP32, MQTT, Node-RED e InfluxDB.</sub>
 
