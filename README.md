@@ -50,6 +50,9 @@ Recentemente, a inteligência artificial passou a despertar cada vez mais o meu 
 **[Consultor de Carreira](https://github.com/sosofisouza/global-solution-python)**
 <br><sub>Roadmaps de requalificação profissional com Python e Google Gemini.</sub>
 
+**[Eleições 2022](https://github.com/sosofisouza/eda-eleicoes-2022)**
+<br><sub>Análise exploratória dos dados do TSE para Presidente e Governador, com Python e pandas.</sub>
+
 **[CareLevel IoT](https://github.com/sosofisouza/carelevel-iot)**
 <br><sub>Monitoramento de sinais vitais com ESP32, MQTT, Node-RED e InfluxDB.</sub>
 
